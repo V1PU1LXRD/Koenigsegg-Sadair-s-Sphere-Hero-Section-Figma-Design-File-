@@ -16,7 +16,7 @@
 
 | Project | Preview | Status |
 |---------|---------|--------|
-| 🏎️ Koenigsegg Sadair's Sphere | [View Design →](link-to-repo) | ✅ Complete |
+| 🏎️ Koenigsegg Sadair's Sphere | [View Design →](https://github.com/V1PU1LXRD/Koenigsegg-Sadair-s-Sphere-Hero-Section-Figma-Design-File-) | ✅ Complete |
 
 </div>
 
