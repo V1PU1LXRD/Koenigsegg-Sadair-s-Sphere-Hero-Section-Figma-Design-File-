@@ -1,1 +1,42 @@
-# Koenigsegg-Sadair-s-Sphere-Hero-Section-Figma-Design-File-
+<div align="center">
+
+# ⚡ Hey, I'm Vipul Kanhere
+
+### UI/UX Designer & Frontend Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Designing+Hypercars+of+the+Web;Pixel+Perfect+%7C+Performance+Obsessed;Figma+%E2%86%92+Code+Alchemist" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🎨 Featured Designs
+
+<div align="center">
+
+| Project | Preview | Status |
+|---------|---------|--------|
+| 🏎️ Koenigsegg Sadair's Sphere | [View Design →](link-to-repo) | ✅ Complete |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)
+
+</div>
